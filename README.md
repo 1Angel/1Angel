@@ -4,6 +4,5 @@
 ---
 
 
-<h3 align="left">Languages and Tools:</h3>
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,nodejs,figma&theme=light)](https://skillicons.dev)
+<img src="https://skillicons.dev/icons?i=git,kubernetes,docker,c,vim" />
 
