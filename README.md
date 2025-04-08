@@ -14,4 +14,4 @@
 </div>
 
 
-![](https://media1.tenor.com/m/ax8MG9FezqEAAAAd/jotaro-star-platinum.gif)
+<img src="https://media.giphy.com/media/vFKqnCdLPNOKc/giphy.gif" width="40" height="40" />
