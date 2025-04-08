@@ -13,8 +13,8 @@
     </a>
 </div>
 
-<br/>
-<center>
+---
+<div align="center">
     
 <img src="https://media4.giphy.com/media/v1.Y2lkPTc5MGI3NjExcG1wa2g2anhwdGFuNzNjaHpmOWdydDV5ZzV3ZWI0ZXQ4dGMyc3I1MiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/h9rBcBywX895S/giphy.gif" />
-</center>
+</div>
