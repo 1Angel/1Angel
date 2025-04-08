@@ -14,4 +14,4 @@
 </div>
 
 
-<img src="https://media1.tenor.com/m/ax8MG9FezqEAAAAd/jotaro-star-platinum.gif"/>
+![](https://media1.tenor.com/m/ax8MG9FezqEAAAAd/jotaro-star-platinum.gif)
