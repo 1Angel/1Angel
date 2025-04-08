@@ -12,3 +12,6 @@
     <img src="https://skillicons.dev/icons?i=dotnet,spring,vue,angular,docker,postman" />
     </a>
 </div>
+
+
+<img src="https://media1.tenor.com/m/ax8MG9FezqEAAAAd/jotaro-star-platinum.gif"/>
